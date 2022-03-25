@@ -1,0 +1,25 @@
+h2 {
+    color:mediumvioletred;
+  
+}
+
+p {
+    font-size: 20px;
+}
+
+.text {
+    color: blue;
+}
+.text2 {
+    color:blueviolet;
+}
+#text3 {
+    color:brown;
+}
+.contener p {
+    color: cornflowerblue;
+}
+
+ol ul li {
+    color: darkgoldenrod;
+}
